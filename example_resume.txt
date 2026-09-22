@@ -1,0 +1,22 @@
+Alex Kumar
+Software Developer | Dallas, TX
+alex.kumar@example.com
+
+SUMMARY
+Software developer with 4 years of experience building backend services and
+internal tools. Comfortable owning features end to end, from design through
+deployment and on-call.
+
+EXPERIENCE
+Software Developer, ExampleCorp — Dallas, TX (2022–Present)
+- Built REST APIs in Python serving 2M requests/day, cutting p95 latency 35%.
+- Designed Postgres schemas and Redis caching layers for high-throughput reads.
+- Wrote CI pipelines with GitHub Actions; containerised services with Docker.
+- Partnered with product and QA to ship features on a two-week cadence.
+
+Junior Developer, StartupXYZ — Remote (2020–2022)
+- Implemented React frontends consuming REST APIs.
+- Added unit tests with pytest, raising coverage from 40% to 75%.
+
+SKILLS
+Python, JavaScript, REST APIs, Postgres, Redis, Docker, GitHub Actions, pytest
