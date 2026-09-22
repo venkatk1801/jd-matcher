@@ -1,0 +1,17 @@
+Application Developer — Seattle, WA
+
+We are looking for an Application Developer to join our backend platform team.
+
+Responsibilities:
+- Design and build microservices in Python and Go on Kubernetes.
+- Own GraphQL APIs serving millions of requests per day.
+- Drive CI/CD automation with GitHub Actions and Terraform.
+- Improve observability with OpenTelemetry tracing and Prometheus metrics.
+- Mentor junior engineers and participate in on-call rotations.
+
+Requirements:
+- 3+ years building backend services with Python.
+- Hands-on Kubernetes experience in production.
+- Familiarity with GraphQL schema design.
+- Experience with Terraform for infrastructure as code.
+- Strong communication skills and a bias for action.
